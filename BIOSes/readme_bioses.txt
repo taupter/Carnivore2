@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 Carnivore2 MultiFunctional Cartridge
-Copyright (c) 2017-2024 RBSC
-Last updated: 12.11.2025
+Copyright (c) 2017-2026 RBSC
+Last updated: 12.06.2026
 --------------------------------------------------------------------------------
 
 The IDE and FMPAC BIOS ROMs bear the copyrights of their respective creators/owners.
@@ -16,7 +16,7 @@ English translation of FMPAC BIOS ROM v1.10: by 232, Max Iwamoto and GDX
 
 The following versions of BIOSes are available:
 
-\BIDECMFC.BIN	- Nextor 2.1.3 Release with IDE driver 0.1.7
+\BIDECMFC.BIN	- Nextor 2.1.4 Release with IDE driver 0.1.7
 \FMPCCMFC.BIN	- English FMPAC BIOS
 \FMPCCMFC.ALT	- Original (Japanese) FMPAC BIOS
 
